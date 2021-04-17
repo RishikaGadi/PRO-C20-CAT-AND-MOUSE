@@ -3,12 +3,12 @@ var background1;
 
 function preload() {
 
-    cat = loadImage("cat1.png");   
-    catRunning = loadAnimation("cat2.png","cat3.png");
-    catSad = loadImage("cat4.png");
-    garden = loadImage("garden.png");
-    mouseStanding = loadImage("mouse1.png");
-    mouseTeasing = loadAnimation("mouse3.png");
+    cat = loadImage("images/cat1.png");   
+    catRunning = loadAnimation("images/cat2.png","images/cat3.png");
+    catSad = loadImage("images/cat4.png");
+    garden = loadImage("images/garden.png");
+    mouseStanding = loadImage("images/mouse1.png");
+    mouseTeasing = loadAnimation("images/mouse3.png");
 }
 
 function setup(){
